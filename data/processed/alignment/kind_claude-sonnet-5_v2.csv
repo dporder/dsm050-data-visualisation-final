@@ -1,0 +1,41 @@
+item_id,repo_slug,task,model,prompt_version,label,reason,input_tokens,output_tokens,usd,called_utc
+9e0f70129d4701e8d19e2b5874738256,vlads.digital,kind,claude-sonnet-5,2,Business and clients,Personal-name plus 'digital' reads as a company/agency-style site.,2392,41,0.005194,2026-09-13T08:02:27Z
+6c458b8e512de771002ff96fa1ffd3f8,pixel-perfect-flow,kind,claude-sonnet-5,2,Generic or brand-style name,"Only builder vocabulary words like pixel, perfect, flow; no purpose stated.",2396,50,0.005292,2026-09-13T08:02:29Z
+74884de303fe49bd64a05d6b48a215e3,rohlik-group-vendor-hub,kind,claude-sonnet-5,2,Business and clients,Vendor hub for a company (Rohlik Group) signals business/client management platform.,2399,44,0.005238,2026-09-13T08:02:31Z
+e4e6d9377e97db31917dc6dc829ac535,fit-studio-genesis,kind,claude-sonnet-5,2,Health and fitness,"""fit"" names fitness domain despite generic ""studio"" and ""genesis"" builder words.",2395,52,0.005310,2026-09-13T08:02:33Z
+69def0d236e629f31144c23387215003,hrms,kind,claude-sonnet-5,2,Business and clients,"HRMS is an HR management system, a business/client-facing tool.",2389,38,0.005158,2026-09-13T08:02:35Z
+0950ea40b2541bae9a97a425a97b7bd1,vonkam-automations,kind,claude-sonnet-5,2,AI and chatbots,Name centers on 'automations' with no other domain word present.,2393,37,0.005156,2026-09-13T08:02:37Z
+113a58d0f1735a6db574e3e6360af68e,spinnenfluesterer,kind,claude-sonnet-5,2,Pets and animals,"German 'spinnenflüsterer' means spider whisperer, referencing animals/insects.",2395,48,0.005270,2026-09-13T08:02:39Z
+686ec2b0c1671e85ce5d9503b607f868,hazeapp,kind,claude-sonnet-5,2,Cannot tell,'Haze' carries no clear domain meaning; ambiguous name with no purpose stated.,2391,48,0.005262,2026-09-13T08:02:41Z
+baa1ca00eea6e0e253b161bb6ccfe6f4,finance-flow-smart-plan,kind,claude-sonnet-5,2,Money and admin,"Contains 'finance' naming the domain, despite generic 'flow' and 'plan' words.",2397,48,0.005274,2026-09-13T08:02:43Z
+1a1bba05fc887096b26343ab8154e581,fujaursopastelaria,kind,claude-sonnet-5,2,Food and drink,"Contains 'pastelaria', meaning pastry shop, a food business.",2395,41,0.005200,2026-09-13T08:02:45Z
+8666a1cfa8c43876f3a8061f04ac26ec,hello-world-creator-c28d61e7,kind,claude-sonnet-5,2,Cannot tell,"Test/demo-style name with hash suffix, carries no domain purpose.",2400,42,0.005220,2026-09-13T08:02:49Z
+ac89c3b6787eaaca73f2648950b4f6b3,the5am,kind,claude-sonnet-5,2,Planning and productivity,"'the5am' suggests an early-morning club, per the routine cue.",2389,42,0.005198,2026-09-13T08:02:52Z
+12a3ffb6cbeb23ede78fbc1fa4a3d5bf,pixel-perfect-portfolio-main,kind,claude-sonnet-5,2,Site and portfolio,Portfolio name and personal introduction indicate a personal site,2423,39,0.005236,2026-09-13T08:02:54Z
+60209e0f6fb4bc7b868ca9f3cb18cb5e,nantes-spot,kind,claude-sonnet-5,2,Travel and hospitality,"""Spot"" and city name suggest a city guide of places.",2392,41,0.005194,2026-09-13T08:02:56Z
+4317ea88de8518c94161e9d90a46a393,sika,kind,claude-sonnet-5,2,Cannot tell,Single ambiguous word with no purpose indicated,2388,35,0.005126,2026-09-13T08:02:58Z
+f99bfeecbeec93a07f67820c1e15ecca,portfolio,kind,claude-sonnet-5,2,Site and portfolio,Named 'portfolio' with developer's personal site title.,2407,37,0.005184,2026-09-13T08:03:00Z
+b67e0007043be90f5e624b71252185be,sarafoundation,kind,claude-sonnet-5,2,Community and events,'Foundation' indicates a charity or community organization.,2402,33,0.005134,2026-09-13T08:03:02Z
+abfc1bcb06a6020bac6bbd75de129ac2,rehman,kind,claude-sonnet-5,2,Property and home,Construction company name indicates property and building services,2418,29,0.005126,2026-09-13T08:03:04Z
+7e43da3bc237004c0709839554b0b7a2,snore-detective-pro,kind,claude-sonnet-5,2,Health and fitness,"'Snore' relates to sleep/health, a medical monitoring purpose.",2394,44,0.005228,2026-09-13T08:03:06Z
+538d10ead885d6b5d7bb9ae505b9874f,ai-fitness-and-wellness-app,kind,claude-sonnet-5,2,Health and fitness,'Fitness' and 'wellness' name the health domain; AI is technique.,2400,43,0.005230,2026-09-13T08:03:08Z
+a0e3a7078f9aaf25900c98f38d8ab3a6,campus-connect-hub,kind,claude-sonnet-5,2,Learning and study,"'Campus' names an educational setting, deciding the family per rule 6.",2394,40,0.005188,2026-09-13T08:03:11Z
+7cc8ed5cdd1bbaf25c40f912cf114c93,stylish-portfolio-ground,kind,claude-sonnet-5,2,Site and portfolio,"Contains 'portfolio', indicating a personal portfolio site.",2397,41,0.005204,2026-09-13T08:03:13Z
+186cf23d48ac1a97127387b3d92e5521,remix-of-extrahand-task-flow,kind,claude-sonnet-5,2,Planning and productivity,'Task flow' indicates task management or productivity workflow tool.,2400,41,0.005210,2026-09-13T08:03:15Z
+759fa1b92a49a3108baa0b2d2e34b783,kingdomnannies,kind,claude-sonnet-5,2,Jobs and careers,"'Nannies' names care staff hiring, matching Jobs and careers cue list.",2393,46,0.005246,2026-09-13T08:03:17Z
+f6f31af4c0b6922e5c3a4d1f4bed0a5d,lingua-assist,kind,claude-sonnet-5,2,Learning and study,"'Lingua' names language learning; assistant is technique, not the domain.",2416,40,0.005232,2026-09-13T08:03:19Z
+3947ea42e104e52bfcd5f525244331d2,talky-insight-viz,kind,claude-sonnet-5,2,Trackers and dashboards,"Contains 'insight' and 'viz', indicating analytics or data visualization tool.",2394,49,0.005278,2026-09-13T08:03:21Z
+ad6cd24bf420cc086da599562705cd8a,release-your-calm,kind,claude-sonnet-5,2,Health and fitness,"""Calm"" signals mental wellbeing and relaxation, a health and fitness cue.",2392,49,0.005274,2026-09-13T08:03:23Z
+353cb5e002458ff5f02529cac06ec0f6,examsnap-ai,kind,claude-sonnet-5,2,Learning and study,"'Exam' names the domain; AI is a technique, not the product.",2393,38,0.005166,2026-09-13T08:03:25Z
+573ff93048b85607a59c05419bb3659f,superimune,kind,claude-sonnet-5,2,Health and fitness,"""imune"" (immune) roots this in health-related purpose.",2389,39,0.005168,2026-09-13T08:03:27Z
+593a7103717b0a34401efd6af261b2ea,delton-chatbot-v2,kind,claude-sonnet-5,2,AI and chatbots,"Name explicitly contains 'chatbot', identifying it as the product itself.",2396,45,0.005242,2026-09-13T08:03:29Z
+cb7a17d14a85128997ceecf267ca597f,grand-moments-booking,kind,claude-sonnet-5,2,Community and events,"'Moments' with 'booking' suggests event reservation, an occasion venue service.",2394,43,0.005218,2026-09-13T08:03:33Z
+94b42e7bd13f630d056b56b42c4745fb,mood-weaver,kind,claude-sonnet-5,2,Health and fitness,'Mood' names mental health/wellbeing tracking domain,2392,39,0.005174,2026-09-13T08:03:35Z
+ddf863429782a3e48fab892957d33cc5,chatapp,kind,claude-sonnet-5,2,Community and events,"Name explicitly says chat app, indicating messaging between people",2390,36,0.005140,2026-09-13T08:03:37Z
+6b4be8ecad233754393ae7fdb15bf9fe,mavs-machine-test,kind,claude-sonnet-5,2,Cannot tell,"Named as a machine test, carries no purpose signal.",2394,35,0.005138,2026-09-13T08:03:39Z
+cc5dce7c5492a55f49299daf87d17d0c,startup-rag,kind,claude-sonnet-5,2,Business and clients,"'startup' is domain word, outweighs technique term 'rag'",2391,39,0.005172,2026-09-13T08:03:41Z
+82ccc3243ba5d8d6718ed079b553b2d2,mibh,kind,claude-sonnet-5,2,Cannot tell,Name is an unclear abbreviation with no identifiable purpose words.,2389,41,0.005188,2026-09-13T08:03:42Z
+9f8d68b6eb22687a95f2f0da0b918a4f,swipe-play-discover,kind,claude-sonnet-5,2,Games and toys,"""Play"" and ""discover"" suggest a playful, gaming-style app.",2394,44,0.005228,2026-09-13T08:03:44Z
+5437113d04630931411fd0ad1b4ac0a0,my-portfolio,kind,claude-sonnet-5,2,Site and portfolio,"Name explicitly says 'portfolio', indicating a personal site.",2392,41,0.005194,2026-09-13T08:03:46Z
+07816fa6bd9747ab6391bd55a14198f1,paginaqualivercopia,kind,claude-sonnet-5,2,Cannot tell,Garbled name with no clear identifiable purpose words.,2395,36,0.005150,2026-09-13T08:03:48Z
+5430488a622d884067e4431396647fc2,ascend-protocol,kind,claude-sonnet-5,2,Cannot tell,"Ascend and protocol are vague, no clear domain word present.",2393,39,0.005176,2026-09-13T08:03:50Z

@@ -1,0 +1,39 @@
+# Prompt v0 for kind: the exact system prompt of src/llm_label.py used for the two
+# full-stratum runs (gpt-4.1-mini, claude-sonnet-5) made on 13 September 2026 BEFORE
+# alignment. Never sent by align_judge.py; its labels are imported from
+# data/processed/llm_labels.csv so they can be scored against Dan's labels at zero cost (D17).
+
+You classify the NAME of a small software project into exactly one family.
+You see only the name the maker gave the project, sometimes with the title of its web page.
+Do not guess beyond what the words support. Rules, in order:
+1. If the name is in a language other than English and you can read it, translate silently and classify.
+2. If the words state a purpose or domain, pick the matching family from this list. Each family is
+   adapted from Google Play's published app categories, shown in brackets, so use the Play meaning when unsure:
+   - Health and fitness   [Google Play: Health and Fitness / Medical]
+   - Money and admin   [Google Play: Finance]
+   - Shop and commerce   [Google Play: Shopping]
+   - Business and clients   [Google Play: (no Play equivalent; native to this corpus)]
+   - Travel and hospitality   [Google Play: Travel and Local]
+   - Property and home   [Google Play: House and Home]
+   - Logistics and transport   [Google Play: Auto and Vehicles / Maps and Navigation]
+   - Food and drink   [Google Play: Food and Drink]
+   - Beauty and fashion   [Google Play: Beauty]
+   - Jobs and careers   [Google Play: Business (careers)]
+   - Pets and animals   [Google Play: Lifestyle (pets)]
+   - Faith and culture   [Google Play: Lifestyle (faith, astrology)]
+   - News and information   [Google Play: News and Magazines / Weather]
+   - Sport and outdoors   [Google Play: Sports]
+   - Trackers and dashboards   [Google Play: (no Play equivalent; native to this corpus)]
+   - Planning and productivity   [Google Play: Productivity]
+   - Games and toys   [Google Play: Games (any Play game category)]
+   - Learning and study   [Google Play: Education]
+   - Creative and media   [Google Play: Art and Design / Photography / Music and Audio / Video]
+   - Community and events   [Google Play: Social / Events / Communications]
+   - AI and chatbots   [Google Play: (no Play equivalent; native to this corpus)]
+   - Site and portfolio   [Google Play: (no Play equivalent; native to this corpus)]
+   - Utilities and converters   [Google Play: Tools]
+3. If every word is product vocabulary (hub, flow, connect, pro, app, studio, lab) and none says what it does, answer "Generic or brand-style name".
+4. If the name is an invented word or a brand with no readable meaning, answer "Unreadable: invented or brand name".
+5. If it is in a language you cannot read, answer "Unreadable: not English" and give the language if you can.
+6. Otherwise answer "Cannot tell".
+Confidence is your own estimate that a careful human would choose the same family: 0.5 means a coin flip.

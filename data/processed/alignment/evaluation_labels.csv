@@ -1,0 +1,201 @@
+task_id,item_id,position,human_label,verdict
+kind,9e0f70129d4701e8d19e2b5874738256,1,Business and clients,label
+kind,6c458b8e512de771002ff96fa1ffd3f8,2,Business and clients,label
+kind,74884de303fe49bd64a05d6b48a215e3,3,Creative and media,label
+kind,e4e6d9377e97db31917dc6dc829ac535,4,Health and fitness,label
+kind,69def0d236e629f31144c23387215003,5,Business and clients,label
+kind,0950ea40b2541bae9a97a425a97b7bd1,6,AI and chatbots,label
+kind,113a58d0f1735a6db574e3e6360af68e,7,Pets and animals,label
+kind,686ec2b0c1671e85ce5d9503b607f868,8,Utilities and converters,label
+kind,baa1ca00eea6e0e253b161bb6ccfe6f4,9,Money and admin,label
+kind,1a1bba05fc887096b26343ab8154e581,10,Food and drink,label
+kind,8666a1cfa8c43876f3a8061f04ac26ec,11,Utilities and converters,label
+kind,ac89c3b6787eaaca73f2648950b4f6b3,12,Planning and productivity,label
+kind,12a3ffb6cbeb23ede78fbc1fa4a3d5bf,13,Site and portfolio,label
+kind,60209e0f6fb4bc7b868ca9f3cb18cb5e,14,Travel and hospitality,label
+kind,4317ea88de8518c94161e9d90a46a393,15,Beauty and fashion,label
+kind,f99bfeecbeec93a07f67820c1e15ecca,16,Site and portfolio,label
+kind,b67e0007043be90f5e624b71252185be,17,Community and events,label
+kind,abfc1bcb06a6020bac6bbd75de129ac2,18,Property and home,label
+kind,7e43da3bc237004c0709839554b0b7a2,19,Health and fitness,label
+kind,538d10ead885d6b5d7bb9ae505b9874f,20,Health and fitness,label
+kind,a0e3a7078f9aaf25900c98f38d8ab3a6,21,Learning and study,label
+kind,7cc8ed5cdd1bbaf25c40f912cf114c93,22,Site and portfolio,label
+kind,186cf23d48ac1a97127387b3d92e5521,23,Planning and productivity,label
+kind,759fa1b92a49a3108baa0b2d2e34b783,24,Jobs and careers,label
+kind,f6f31af4c0b6922e5c3a4d1f4bed0a5d,25,AI and chatbots,label
+kind,3947ea42e104e52bfcd5f525244331d2,26,Trackers and dashboards,label
+kind,ad6cd24bf420cc086da599562705cd8a,27,Health and fitness,label
+kind,353cb5e002458ff5f02529cac06ec0f6,28,Learning and study,label
+kind,573ff93048b85607a59c05419bb3659f,29,Health and fitness,label
+kind,593a7103717b0a34401efd6af261b2ea,30,AI and chatbots,label
+kind,cb7a17d14a85128997ceecf267ca597f,31,Community and events,label
+kind,94b42e7bd13f630d056b56b42c4745fb,32,Games and toys,label
+kind,ddf863429782a3e48fab892957d33cc5,33,Community and events,label
+kind,6b4be8ecad233754393ae7fdb15bf9fe,34,Cannot tell,label
+kind,cc5dce7c5492a55f49299daf87d17d0c,35,Business and clients,label
+kind,82ccc3243ba5d8d6718ed079b553b2d2,36,Shop and commerce,label
+kind,9f8d68b6eb22687a95f2f0da0b918a4f,37,Shop and commerce,label
+kind,5437113d04630931411fd0ad1b4ac0a0,38,Site and portfolio,label
+kind,07816fa6bd9747ab6391bd55a14198f1,39,Business and clients,label
+kind,5430488a622d884067e4431396647fc2,40,Health and fitness,label
+kind,cbfc7ac564b0e87b1dec4adacb44b41f,41,Business and clients,label
+kind,81f100c50685d08f2532b90c84a581d2,42,Money and admin,label
+kind,97b9106423263818487fecdd528cb9bb,43,Property and home,label
+kind,5e3558f81368f72012665461580489f4,44,Trackers and dashboards,label
+kind,8a8729afd9135f336bc56021e91650f4,45,Trackers and dashboards,label
+kind,bfe99fc89d79a1eb758d68d256a7efc4,46,Shop and commerce,label
+kind,52b8c2b722d0ce9d18f549d17e2068b2,47,AI and chatbots,label
+kind,6744a4921d11f805d6b0e02c111a2314,48,Cannot tell,label
+kind,2b09c7be4006bf1666179d9daf7b85ff,49,AI and chatbots,label
+kind,ad0c9d24a8e4f35331f87ef8d888d897,50,Creative and media,label
+audience,9e0f70129d4701e8d19e2b5874738256,1,"Producer sector: for a business, clients or paying customers",label
+audience,6c458b8e512de771002ff96fa1ffd3f8,2,"Producer sector: for a business, clients or paying customers",label
+audience,74884de303fe49bd64a05d6b48a215e3,3,"Producer sector: for a business, clients or paying customers",label
+audience,e4e6d9377e97db31917dc6dc829ac535,4,"Producer sector: for a business, clients or paying customers",label
+audience,69def0d236e629f31144c23387215003,5,"Producer sector: for a business, clients or paying customers",label
+audience,0950ea40b2541bae9a97a425a97b7bd1,6,"Producer sector: for a business, clients or paying customers",label
+audience,113a58d0f1735a6db574e3e6360af68e,7,"Producer sector: for a business, clients or paying customers",label
+audience,686ec2b0c1671e85ce5d9503b607f868,8,Cannot tell from the name,label
+audience,baa1ca00eea6e0e253b161bb6ccfe6f4,9,Cannot tell from the name,label
+audience,1a1bba05fc887096b26343ab8154e581,10,"Producer sector: for a business, clients or paying customers",label
+audience,8666a1cfa8c43876f3a8061f04ac26ec,11,"Producer sector: for a business, clients or paying customers",label
+audience,ac89c3b6787eaaca73f2648950b4f6b3,12,Cannot tell from the name,label
+audience,12a3ffb6cbeb23ede78fbc1fa4a3d5bf,13,Cannot tell from the name,label
+audience,60209e0f6fb4bc7b868ca9f3cb18cb5e,14,"Household sector: for the maker, their family, friends or a community, unpaid",label
+audience,4317ea88de8518c94161e9d90a46a393,15,"Producer sector: for a business, clients or paying customers",label
+audience,f99bfeecbeec93a07f67820c1e15ecca,16,Cannot tell from the name,label
+audience,b67e0007043be90f5e624b71252185be,17,"Household sector: for the maker, their family, friends or a community, unpaid",label
+audience,abfc1bcb06a6020bac6bbd75de129ac2,18,"Producer sector: for a business, clients or paying customers",label
+audience,7e43da3bc237004c0709839554b0b7a2,19,Cannot tell from the name,label
+audience,538d10ead885d6b5d7bb9ae505b9874f,20,Cannot tell from the name,label
+audience,a0e3a7078f9aaf25900c98f38d8ab3a6,21,Cannot tell from the name,label
+audience,7cc8ed5cdd1bbaf25c40f912cf114c93,22,Cannot tell from the name,label
+audience,186cf23d48ac1a97127387b3d92e5521,23,"Producer sector: for a business, clients or paying customers",label
+audience,759fa1b92a49a3108baa0b2d2e34b783,24,"Producer sector: for a business, clients or paying customers",label
+audience,f6f31af4c0b6922e5c3a4d1f4bed0a5d,25,Cannot tell from the name,label
+audience,3947ea42e104e52bfcd5f525244331d2,26,"Producer sector: for a business, clients or paying customers",label
+audience,ad6cd24bf420cc086da599562705cd8a,27,Cannot tell from the name,label
+audience,353cb5e002458ff5f02529cac06ec0f6,28,"Producer sector: for a business, clients or paying customers",label
+audience,573ff93048b85607a59c05419bb3659f,29,"Producer sector: for a business, clients or paying customers",label
+audience,593a7103717b0a34401efd6af261b2ea,30,Cannot tell from the name,label
+audience,cb7a17d14a85128997ceecf267ca597f,31,"Producer sector: for a business, clients or paying customers",label
+audience,94b42e7bd13f630d056b56b42c4745fb,32,Cannot tell from the name,label
+audience,ddf863429782a3e48fab892957d33cc5,33,Cannot tell from the name,label
+audience,6b4be8ecad233754393ae7fdb15bf9fe,34,Cannot tell from the name,label
+audience,cc5dce7c5492a55f49299daf87d17d0c,35,"Producer sector: for a business, clients or paying customers",label
+audience,82ccc3243ba5d8d6718ed079b553b2d2,36,"Producer sector: for a business, clients or paying customers",label
+audience,9f8d68b6eb22687a95f2f0da0b918a4f,37,"Producer sector: for a business, clients or paying customers",label
+audience,5437113d04630931411fd0ad1b4ac0a0,38,Cannot tell from the name,label
+audience,07816fa6bd9747ab6391bd55a14198f1,39,"Producer sector: for a business, clients or paying customers",label
+audience,5430488a622d884067e4431396647fc2,40,Cannot tell from the name,label
+audience,cbfc7ac564b0e87b1dec4adacb44b41f,41,"Producer sector: for a business, clients or paying customers",label
+audience,81f100c50685d08f2532b90c84a581d2,42,Cannot tell from the name,label
+audience,97b9106423263818487fecdd528cb9bb,43,"Producer sector: for a business, clients or paying customers",label
+audience,5e3558f81368f72012665461580489f4,44,"Producer sector: for a business, clients or paying customers",label
+audience,8a8729afd9135f336bc56021e91650f4,45,Cannot tell from the name,label
+audience,bfe99fc89d79a1eb758d68d256a7efc4,46,"Producer sector: for a business, clients or paying customers",label
+audience,52b8c2b722d0ce9d18f549d17e2068b2,47,"Producer sector: for a business, clients or paying customers",label
+audience,6744a4921d11f805d6b0e02c111a2314,48,Cannot tell from the name,label
+audience,2b09c7be4006bf1666179d9daf7b85ff,49,"Producer sector: for a business, clients or paying customers",label
+audience,ad0c9d24a8e4f35331f87ef8d888d897,50,"Household sector: for the maker, their family, friends or a community, unpaid",label
+maker,52cc42cb3f2a0cf53f7b080cb112fa7b,1,Cannot tell from the evidence,label
+maker,1e646c0e443b72405573d8e6a6b19582,2,Cannot tell from the evidence,label
+maker,fe4ba31069b8dd6c0df3620e603a0c38,3,Looks made by someone technical but not a professional developer,label
+maker,b28b33edc9aade97f7fbed2a6d05e569,4,Cannot tell from the evidence,label
+maker,ef4261ff9e82c84efe40c74c241acb97,5,Looks made by a professional developer,label
+maker,8e2f2a5fb5abbc2a973034528ced401a,6,Cannot tell from the evidence,label
+maker,38ec3c3f6cd1e053404bd9937cb28d79,7,Cannot tell from the evidence,label
+maker,c282c4622ec7a33febb5e1dc797462a7,8,Cannot tell from the evidence,label
+maker,6227e59176d45f25a3364f244947370e,9,Cannot tell from the evidence,label
+maker,effdcfe3181c7fd771917e2d80680514,10,Cannot tell from the evidence,label
+maker,50c599df1b77c1ff9899d3d14e13d8a3,11,Looks made by a professional developer,label
+maker,e2e462fa0d886f53dbeeed136b05946f,12,Looks made by a professional developer,label
+maker,a17965f5a0d79012a8905cc52313e297,13,Cannot tell from the evidence,label
+maker,7f33b91d37323442c1840c55734828fa,14,Cannot tell from the evidence,label
+maker,27c1f3457b556129dfc4d4a7e7216af3,15,Cannot tell from the evidence,label
+maker,025b8bb1ece57463f0e87ba8808fa761,16,Cannot tell from the evidence,label
+maker,8f6ab492ab77561788873e0e6987cf68,17,Looks made by someone technical but not a professional developer,label
+maker,0420e7b3bd77c46111bc31eb4f02cae0,18,Cannot tell from the evidence,label
+maker,06647ad253baf9bcfc8e5b4b437f42e4,19,Cannot tell from the evidence,label
+maker,a00d2560ed7d57a6755750029a927022,20,Cannot tell from the evidence,label
+maker,9c96b3fb88623f0074b9fca610247d42,21,Looks made by someone technical but not a professional developer,label
+maker,042649eda305e3b9b16b9cefa4c11b4b,22,Cannot tell from the evidence,label
+maker,d0744cb13b2ab3bc58722a70fbc398e0,23,Cannot tell from the evidence,label
+maker,f2511d77b8ebf2da18dec8da6b540927,24,Cannot tell from the evidence,label
+maker,6394b1879a488d2f6f6a48c94f9caedb,25,Looks made by a professional developer,label
+maker,95d4851e4e02447b2ddf5c74ff682575,26,Cannot tell from the evidence,label
+maker,04117d71e96fc0b93882eeedfc830910,27,Cannot tell from the evidence,label
+maker,29a515be5549ea68a36a8af4cf8f0de2,28,Looks made by a professional developer,label
+maker,2b7948c4faa39585b005828f9052b000,29,Cannot tell from the evidence,label
+maker,af91a1492a4d9d402b763714c9a39142,30,Cannot tell from the evidence,label
+maker,bd95393005aab70f922db7038fe74aad,31,Looks made by someone technical but not a professional developer,label
+maker,d8e1b658703cda3f999e1bd4ab67e9a1,32,Cannot tell from the evidence,label
+maker,8d11dc1fd085d7074abbc02326376c68,33,Cannot tell from the evidence,label
+maker,24a724ffe6fab775bf6361c1167d4679,34,Cannot tell from the evidence,label
+maker,2cbfb2579515dc5f98f8137fe200eb2c,35,Cannot tell from the evidence,label
+maker,76494da894af09cc2896f71827fac888,36,Cannot tell from the evidence,label
+maker,ccadce77b40a0726bb1ee3e41733fa53,37,Looks made by someone technical but not a professional developer,label
+maker,cc8bb51d1c0bf857974bf2386073e5d0,38,Cannot tell from the evidence,label
+maker,35bf3addbe76952095dd0d5c8c618538,39,Cannot tell from the evidence,label
+maker,55dc7ca56c8ed26857ccc80903f41ee7,40,Looks made by a professional developer,label
+maker,9b7d86a079df69539d6b2461578baef7,41,Looks made by a professional developer,label
+maker,2ee3c56273aef05943464dc0bb9874e5,42,Cannot tell from the evidence,label
+maker,12c4e2a24240730388af7fd6848d750a,43,Cannot tell from the evidence,label
+maker,6c352f8b2da0b8fd509c16e354f29d62,44,Cannot tell from the evidence,label
+maker,4fde520cb27623333400c1068b5ea9e5,45,Looks made by a professional developer,label
+maker,dc8cdbc683b1426c34aad279d69767d1,46,Cannot tell from the evidence,label
+maker,4a01f4c5f75738e2d55df3f06e761cd6,47,Looks made by a professional developer,label
+maker,41f8a28bac50bd2b27a118045f0c742a,48,Cannot tell from the evidence,label
+maker,37ecb9ced364ecfe3da92507576c1091,49,Cannot tell from the evidence,label
+maker,21facc9deb2c15a0916674aaa6809f1d,50,Looks made by a professional developer,label
+namestyle,fa7cb1130c4a09cd8966520eb003df4f,1,Descriptive (says what it does: 'habit-tracker'),label
+namestyle,38a55b84d2cd12d64b37aa6d2a2064b9,2,Descriptive (says what it does: 'habit-tracker'),label
+namestyle,e6e2c0695c94283b899a1efcb1ebd23b,3,Cannot tell,label
+namestyle,e005e847e82b61f30cc4bae0e8a8c2e5,4,Descriptive (says what it does: 'habit-tracker'),label
+namestyle,9daf36b85c99f38c59e2afc94b7f37c2,5,Descriptive (says what it does: 'habit-tracker'),label
+namestyle,1a40caf8fe8e3f3df3bb8814f1dab04e,6,Cannot tell,label
+namestyle,a9cbdba39442bf26e67a569adbc2522e,7,Descriptive (says what it does: 'habit-tracker'),label
+namestyle,1f4162c1a602efba02fe1f4831051435,8,Cannot tell,label
+namestyle,250c39ae11ba44ca4daa3268c619e342,9,Suggestive (hints at the purpose: 'golden-hour-hairdresser'),label
+namestyle,be4a969ee73a3d372fa967c3f689276c,10,Suggestive (hints at the purpose: 'golden-hour-hairdresser'),label
+namestyle,0bd21213e5e5e4fa5e17c68a9e2a22c6,11,Descriptive (says what it does: 'habit-tracker'),label
+namestyle,40eee3cde2ebc8a2851a2045cef292f0,12,Cannot tell,label
+namestyle,b113af29e981331fd6aff79258c559c5,13,Descriptive (says what it does: 'habit-tracker'),label
+namestyle,7aa0fa6df80f01333c4cdec911638239,14,Descriptive (says what it does: 'habit-tracker'),label
+namestyle,cadd230d356c616509f5693233b93732,15,Descriptive (says what it does: 'habit-tracker'),label
+namestyle,7a5d02ab8871d8ae1ad2e82067f93609,16,Descriptive (says what it does: 'habit-tracker'),label
+namestyle,ef214a545e3e9637bbda57487ece8339,17,Cannot tell,label
+namestyle,1116481b765b3ee0e0502f6df594f5fd,18,Cannot tell,label
+namestyle,af3139cbf9126c1f4272776806a38983,19,Descriptive (says what it does: 'habit-tracker'),label
+namestyle,d73635b6349ee127778fb9fbdcaf5c69,20,Cannot tell,label
+namestyle,4532086c666e1219b0cb376d1609747d,21,Suggestive (hints at the purpose: 'golden-hour-hairdresser'),label
+namestyle,89ae4192164c51b32cfa5f89127d3a67,22,Descriptive (says what it does: 'habit-tracker'),label
+namestyle,8bebe05701b723563bf8ca96cca8f949,23,Descriptive (says what it does: 'habit-tracker'),label
+namestyle,b63413ccc4f982f3169c821fadd75786,24,Descriptive (says what it does: 'habit-tracker'),label
+namestyle,d6c271eb6b5ac740645bc7c8923d8e30,25,Cannot tell,label
+namestyle,62f8ddcbcc1fdcd7390a85da3abdf4af,26,Descriptive (says what it does: 'habit-tracker'),label
+namestyle,52c3a39403ebde2f70e4d6ccee6bb615,27,Descriptive (says what it does: 'habit-tracker'),label
+namestyle,1c505867e6ee598669fccf127b89bece,28,Descriptive (says what it does: 'habit-tracker'),label
+namestyle,a2e3d6b02dfd083525971f554f583829,29,"Generic (names the thing itself: 'tracker', 'shop')",label
+namestyle,0156dd313e199412f48e926a19b93ebe,30,Cannot tell,label
+namestyle,826ce0bf4c0f306f160d031ac31cc6b3,31,Fanciful (an invented word: 'vibescudo'),label
+namestyle,578e52c38ac72a68042d7f0a10e7f7a2,32,Suggestive (hints at the purpose: 'golden-hour-hairdresser'),label
+namestyle,72458d083a6537c4754f7fa204d25981,33,Suggestive (hints at the purpose: 'golden-hour-hairdresser'),label
+namestyle,83303658b6f18d9b16da1635fffa0600,34,Suggestive (hints at the purpose: 'golden-hour-hairdresser'),label
+namestyle,d2dbfa4a52359f0ef3d135fe01c6d168,35,Suggestive (hints at the purpose: 'golden-hour-hairdresser'),label
+namestyle,187312a78dc6ac1a67ff7d5a9da0bc4e,36,Descriptive (says what it does: 'habit-tracker'),label
+namestyle,48b7ecde89717cb5fb9c332199f2fa48,37,Suggestive (hints at the purpose: 'golden-hour-hairdresser'),label
+namestyle,a171aefb142eda06c744b43e0d9056a8,38,Suggestive (hints at the purpose: 'golden-hour-hairdresser'),label
+namestyle,6015cf2f8b080309d2c7abed89c7d7c4,39,Descriptive (says what it does: 'habit-tracker'),label
+namestyle,ee199c59a5b3acbfe9f3e4ddc3ec60f0,40,Suggestive (hints at the purpose: 'golden-hour-hairdresser'),label
+namestyle,cd1fa117c645b0e413a784dd9b685ec9,41,Suggestive (hints at the purpose: 'golden-hour-hairdresser'),label
+namestyle,688167652808cefef101013ab411e1e7,42,Cannot tell,label
+namestyle,6211c8cbddbf7ebe5f0f22b7ee6e7b78,43,Descriptive (says what it does: 'habit-tracker'),label
+namestyle,0879c9ae77223b59972f6c1494ecd953,44,Descriptive (says what it does: 'habit-tracker'),label
+namestyle,5a5db54f4f6228839b78ae1d17929077,45,Suggestive (hints at the purpose: 'golden-hour-hairdresser'),label
+namestyle,41437de9dd06316ed0e47b44c0f2ff44,46,Descriptive (says what it does: 'habit-tracker'),label
+namestyle,7f9ab9d209951d04706803a72e373582,47,Descriptive (says what it does: 'habit-tracker'),label
+namestyle,cc6ca749d55b9e097f9f0ae85108628f,48,Cannot tell,label
+namestyle,014c9283380bb4dd3345b017eeee4824,49,Descriptive (says what it does: 'habit-tracker'),label
+namestyle,5bf432825df7c23d2f7a8945a9b7dec1,50,Cannot tell,label

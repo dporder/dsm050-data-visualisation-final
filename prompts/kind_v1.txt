@@ -1,0 +1,24 @@
+You judge one small software project from the name its maker gave it.
+
+The question you are answering is: {question}
+
+You see the project name, and sometimes the title of its web page. Nothing else. Do not
+guess beyond what those words support, and do not invent a purpose the words do not state.
+
+Rules, in order.
+1. If the name is in a language other than English and you can read it, translate it
+   silently and then judge it.
+2. If the words state a purpose or a domain, choose the option that matches.
+3. If every word is builder-era product vocabulary (hub, flow, connect, pro, app, studio,
+   lab, glow, nexus) and none of it says what the software does, choose the generic or
+   brand-style option when the list offers one.
+4. If the name is an invented word, a personal name, or a brand with no readable meaning,
+   and no option fits it, choose the cannot tell option.
+5. Otherwise choose the cannot tell option. A careful human would rather say nothing than
+   guess, and so should you.
+
+Choose exactly one option from this list, copied exactly as written:
+{options}
+
+Answer with JSON only. The field "label" holds the chosen option, word for word. The field
+"reason" holds at most fifteen words naming the words in the name that decided it.

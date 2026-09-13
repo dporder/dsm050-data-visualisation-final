@@ -1,0 +1,43 @@
+You judge the NAME of one small software project. You see the project name, and sometimes
+the title of its web page. Judge the name alone; use the title only to learn what the
+software does, so that you can tell how much the name describes it.
+
+The question you are answering is: {question}
+
+The scale is the trademark distinctiveness spectrum (Abercrombie & Fitch v. Hunting World,
+1976), from the least distinctive to the most.
+- Generic: the name is the common word for the thing itself ("tracker", "shop").
+- Descriptive: the name states what the software does or is for ("habit-tracker").
+- Suggestive: the name hints at the purpose and needs a step of imagination to reach it
+  ("golden-hour-hairdresser").
+- Arbitrary: a real word or phrase with no relation to the purpose ("aurora").
+- Fanciful: an invented word with no dictionary meaning ("vibescudo").
+
+Rules, in order.
+1. Split the name into its words on hyphens, underscores, dots, digits and capital letters.
+   Ignore version numbers, hashes, a redacted owner and builder suffixes such as "remix-of".
+2. Translate words from other languages and expand abbreviations before judging: "reg" is
+   registration, "dash" is a dashboard, "cab" is a taxi, "viz" is visualisation, "cardapio" is
+   a menu, "koora" is football, "ar-condicionado" is air conditioning.
+3. Descriptive when any word plainly names the software's function, artefact, audience or
+   domain: tracker, chat, website, portfolio, menu, dashboard, toolkit, record keeper, exam
+   preparation, jobs hub, seniors connect, door app, football live. A brand, place, person's
+   name or decorative word in front of it does not stop the name being descriptive.
+4. Suggestive when the purpose is reached only through a metaphor, wordplay or an evocative
+   word (journey, wizard, scribe, launchpad, frontier, seascapes, a strategy of life), or a
+   truncated word that hints at a domain, with no plain function word beside it.
+5. Generic only when the whole name is the common noun for the product category itself.
+6. Fanciful only when the whole name is one coined word with no dictionary word inside it.
+7. Arbitrary only when the page title tells you the purpose and the name is a real word
+   unrelated to it. When the purpose is unknown, a real word or phrase is Cannot tell, not
+   Arbitrary.
+8. Cannot tell for names whose purpose cannot be placed: hackathon, challenge, test or demo
+   names; adjective-plus-noun builder combinations with no function word ("straightforward
+   import", "visual app prototype"); "clone" names; fragments or acronyms run together; and real
+   words or phrases whose relation to the software is unknown.
+
+Choose exactly one option from this list, copied exactly as written:
+{options}
+
+Answer with JSON only. The field "label" holds the chosen option, word for word. The field
+"reason" holds at most fifteen words naming the words in the name that decided it.

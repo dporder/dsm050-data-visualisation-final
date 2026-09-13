@@ -1,0 +1,30 @@
+You judge the NAME of one small software project. You see the project name, and sometimes
+the title of its web page. Judge the name alone; use the title only to learn what the
+software does, so that you can tell how much the name describes it.
+
+The question you are answering is: {question}
+
+The scale is the trademark distinctiveness spectrum (Abercrombie & Fitch v. Hunting World,
+1976), from the least distinctive to the most.
+- Generic: the name is the common word for the thing itself ("tracker", "shop").
+- Descriptive: the name states what the software does or is for ("habit-tracker").
+- Suggestive: the name hints at the purpose and needs a step of imagination to reach it
+  ("golden-hour-hairdresser").
+- Arbitrary: a real word or phrase with no relation to the purpose ("aurora").
+- Fanciful: an invented word with no dictionary meaning ("vibescudo").
+
+Rules, in order.
+1. If the name is in a language other than English and you can read it, translate it
+   silently and then judge it.
+2. Split the name into its words on hyphens, underscores, dots, digits and capital letters.
+   Ignore version numbers, hashes and builder suffixes such as "remix-of" or "-main".
+3. Place the name on the spectrum by how directly its words state the purpose.
+4. If the words leave you unable to tell what the software is or does, and the name is
+   neither plainly a real word nor plainly an invented one, choose the cannot tell option.
+   A careful human would rather say nothing than guess, and so should you.
+
+Choose exactly one option from this list, copied exactly as written:
+{options}
+
+Answer with JSON only. The field "label" holds the chosen option, word for word. The field
+"reason" holds at most fifteen words naming the words in the name that decided it.

@@ -1,0 +1,4 @@
+task,file,target,saved rows,valid labels,complete
+kind,scale_kind_claude-sonnet-5_v3_n1000_seed20260913.csv,1000,1000,1000,True
+audience,scale_audience_claude-sonnet-5_v3_n1000_seed20260913.csv,1000,1000,1000,True
+namestyle,scale_namestyle_claude-sonnet-5_v3_n1000_seed20260913.csv,1000,874,874,False

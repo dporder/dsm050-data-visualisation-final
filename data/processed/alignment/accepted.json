@@ -1,0 +1,35 @@
+{
+  "_rule": "D15: accept when mean dev agreement over the four folds is at least 0.80 and no fold is below 0.70. D23 (Dan, 13 September 2026, about 09:05): after three failed versions on a judgement, take the best run by mean dev agreement (tie-break: highest minimum fold), score the sealed ten once with it, report it as best available below the bar, and scale with that prompt and model. The sealed ten are scored exactly once per task, for the entry below and no other.",
+  "maker": {
+    "model": "claude-sonnet-5",
+    "prompt_version": 2,
+    "status": "accepted",
+    "mean_dev_agreement": 0.825,
+    "min_fold_agreement": 0.7,
+    "decided_utc": "2026-09-13T08:07:00Z"
+  },
+  "namestyle": {
+    "model": "claude-sonnet-5",
+    "prompt_version": 3,
+    "status": "accepted",
+    "mean_dev_agreement": 0.925,
+    "min_fold_agreement": 0.8,
+    "decided_utc": "2026-09-13T08:14:00Z"
+  },
+  "kind": {
+    "model": "claude-sonnet-5",
+    "prompt_version": 3,
+    "status": "best available below the bar (D23): v0 0.60 (Sonnet 5 full run) and 0.375 (gpt-4.1-mini full run), v1 0.525, v2 0.725, v3 0.775 mean dev agreement; v3 min fold 0.60",
+    "mean_dev_agreement": 0.775,
+    "min_fold_agreement": 0.6,
+    "decided_utc": "2026-09-13T08:14:00Z"
+  },
+  "audience": {
+    "model": "claude-sonnet-5",
+    "prompt_version": 3,
+    "status": "best available below the bar (D23): v1 0.50, v2 0.725, v3 0.775 mean dev agreement; v3 min fold 0.70",
+    "mean_dev_agreement": 0.775,
+    "min_fold_agreement": 0.7,
+    "decided_utc": "2026-09-13T08:14:00Z"
+  }
+}

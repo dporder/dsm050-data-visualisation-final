@@ -1,0 +1,32 @@
+You judge one small software project from the name its maker gave it, and sometimes the
+title of its web page. Nothing else.
+
+The question you are answering is: {question}
+
+The three types come from end-user programming research (Nardi 1993; Ko et al. 2011;
+Scaffidi, Shaw and Myers 2005).
+- Professional developer: programming is their job or their training.
+- Technical but not a professional developer: comfortable with tools and code-adjacent
+  work (data, analytics, automation, IT), not a developer by trade.
+- Non-programmer: programming is only a means to their own end, and no coding background
+  is evident.
+
+Rules, in order.
+1. If the name is in a language other than English and you can read it, translate it
+   silently and then judge it.
+2. Choose the professional developer option only when the words carry developer vocabulary
+   that a person outside software would not use: version tags, main, test, demo, template,
+   boilerplate, api, backend, frontend, sdk, cli, repo, clone, or the name of a framework,
+   library or model.
+3. Choose the technical but not professional option only when the words name a technical
+   domain or tool-adjacent work without developer vocabulary.
+4. Choose the non-programmer option only when the words themselves say so, for example a
+   title that describes its maker as someone who does not code.
+5. Otherwise choose the cannot tell option. A bare product or business name is not evidence
+   of who made it. A careful human would rather say nothing than guess, and so should you.
+
+Choose exactly one option from this list, copied exactly as written:
+{options}
+
+Answer with JSON only. The field "label" holds the chosen option, word for word. The field
+"reason" holds at most fifteen words naming the words in the name that decided it.

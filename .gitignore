@@ -1,0 +1,29 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+.DS_Store
+.env
+~$*
+
+# Private collection records and identifier lookups.
+data/raw/
+
+# Private evaluator evidence and local working files.
+tools/evaluator/tasks/
+data/processed/human_labels/
+.submission-private/
+.claude/
+CLAUDE.md
+AI-USE-SUMMARY-PRIVATE.md
+
+# Local experiments excluded from the published analysis.
+data/models/
+data/processed/llm_labels.csv
+data/processed/llm_batches.json
+data/processed/*.log
+data/processed/rater1_audit_*/
+
+# AI-use records stay on the local machine.
+report/ai-use-log.md

@@ -1,0 +1,65 @@
+You judge one small software project from the name its maker gave it, and sometimes the
+title of its web page. Nothing else. Do not invent a purpose the words do not state.
+
+The question you are answering is: {question}
+
+The families are the study's dictionary families, adapted from Google Play's app categories.
+Read each word of the name the way the dictionary does:
+- Health and fitness: health, fitness, gym, clinic, medical, diet, sleep, snoring, mental
+  health, wellbeing, calm, mood journaling, immune, therapy, a protocol for the body.
+- Money and admin: finance, budget, bank, invoice, loan, pay, wallet, tax, crypto.
+- Shop and commerce: shop, store, market, marketplace, cart, product, order, gifts, hampers.
+- Business and clients: agency, consulting, HR, CRM, sales, vendor, client, lead, startup,
+  enterprise, SaaS, and a company's own site or page ("digital", "solutions", "group").
+- Travel and hospitality: travel, trip, hotel, tour, a city guide or map of places and spots.
+- Property and home: estate, property, rent, construction, renovation, interior, garden.
+- Logistics and transport: delivery, shipping, fleet, taxi, ride, parking, route.
+- Food and drink: food, recipe, cafe, bakery, pastry shop (pastelaria), restaurant, coffee.
+- Beauty and fashion: salon, hair, nails, beauty, fashion, clothing, skincare.
+- Jobs and careers: job, career, hiring, recruitment, nannies and care staff, freelance, gig.
+- Pets and animals: pet, dog, cat, horse, animal, insect, spider, vet.
+- Faith and culture: church, mosque, prayer, faith, astrology, tarot.
+- News and information: news, magazine, press, weather, radio.
+- Sport and outdoors: sport, football, cricket, golf, hiking, league, tournament.
+- Trackers and dashboards: tracker, dashboard, analytics, insight, viz, metrics, monitor, stats.
+- Planning and productivity: planner, calendar, task, to-do, habit, routine, an early-morning
+  club, goal, reminder, notes, inventory.
+- Games and toys: game, quiz, puzzle, chess, arcade, play meaning a game.
+- Learning and study: school, campus, class, student, course, exam, tutor, learn, a language
+  being learned.
+- Creative and media: art, design, music, photo, video, film, gallery, story, a media studio.
+- Community and events: community, club, chat between people, messenger, rooms, forum, events,
+  a wedding or party venue, meetups, a foundation or charity.
+- AI and chatbots: chatbot, assistant, agent, automations, gpt, llm, prompt, voice, transcription.
+- Site and portfolio: a person's portfolio, CV, personal site or landing page.
+- Utilities and converters: calculator, converter, generator, scanner, downloader, QR, PDF,
+  password, a script or system tool.
+
+Rules, in order.
+1. If the name is in a language other than English and you can read it, translate it silently
+   and then judge it. Read misspellings and run-together words for their root (a misspelt
+   "imune" is immune; a Portuguese "pastelaria" is a pastry shop).
+2. The page title, when shown, is evidence equal to the name. A title that names a trade or a
+   person's profession decides the family.
+3. Match the words to the family whose cue list they fit. A domain word beats a technique word:
+   "exam" with "ai" is Learning and study, "startup" with "rag" is Business and clients,
+   "fitness" with "ai" is Health and fitness. Choose AI and chatbots only when the chatbot,
+   assistant, agent or automation is itself the product and no other domain word is present.
+4. "chat" between people (a chat app, messenger, rooms) is Community and events; a chatbot or an
+   assistant is AI and chatbots.
+5. A company, brand, agency or consultancy's own site or page is Business and clients. Site and
+   portfolio is only for a person's portfolio, CV or personal page.
+6. Campus, school, student, class and exam words are Learning and study even when joined to
+   "connect" or "hub". A venue for weddings, receptions or occasions is Community and events.
+7. Test, demo and machine-test names, and names whose words carry no purpose at all, are Cannot
+   tell. Prefer Cannot tell to the generic or brand-style option; choose the generic option only
+   when every word is builder vocabulary (hub, flow, connect, pro, app, studio, lab, nexus) and
+   none of it names a purpose.
+8. Otherwise choose Cannot tell. A careful human would rather say nothing than guess, and so
+   should you.
+
+Choose exactly one option from this list, copied exactly as written:
+{options}
+
+Answer with JSON only. The field "label" holds the chosen option, word for word. The field
+"reason" holds at most fifteen words naming the words in the name that decided it.

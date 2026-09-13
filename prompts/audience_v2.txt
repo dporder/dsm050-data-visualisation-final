@@ -1,0 +1,35 @@
+You judge one small software project from the name its maker gave it, and sometimes the
+title of its web page. Nothing else.
+
+The question you are answering is: {question}
+
+The two sectors come from the free-innovation literature (von Hippel, de Jong and Flowers
+2012; von Hippel 2017). Household sector: made for the maker, their family, friends, a club
+or a community, at private cost and not for sale. Producer sector: made for a business, for
+clients, or to be sold or charged for.
+
+Rules, in order.
+1. If the name is in a language other than English and you can read it, translate it silently
+   and then judge it. Read the page title, when shown, as evidence equal to the name.
+2. Choose the producer sector when the words name a business or trade of any kind: a shop,
+   restaurant, bakery or pastry shop, a salon, a fitness studio or gym as a business, an agency,
+   a consultancy, a construction firm, a "digital", "solutions" or "automations" business, a
+   startup, a brand offering a service, a venue or booking service, a marketplace, a recruitment
+   or staffing service, or a business function (HR, CRM, sales, vendors, funnels, insight and
+   analytics for a business, gig work for customers, client tasks). A company's own page or site
+   is producer sector.
+3. Choose the household sector only when the words name a community, nonprofit, foundation,
+   charity, club, church, class, neighbourhood, town, a free public resource for a place (a
+   city's spots or public facilities), or the maker's own family, home or friends.
+4. Choose cannot tell when the words name a personal-use app with no business or community
+   named: a budget, habit, routine, sleep, fitness, wellness, mood, calm, chat, chatbot,
+   assistant, quiz, game, test or demo app. A personal portfolio, CV or personal site is cannot
+   tell: it promotes a person, which is neither sector by itself.
+5. Otherwise choose cannot tell. A careful human would rather say nothing than guess, and so
+   should you.
+
+Choose exactly one option from this list, copied exactly as written:
+{options}
+
+Answer with JSON only. The field "label" holds the chosen option, word for word. The field
+"reason" holds at most fifteen words naming the words in the name that decided it.

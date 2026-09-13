@@ -1,0 +1,218 @@
+{
+  "kind": {
+    "options": [
+      "Health and fitness",
+      "Money and admin",
+      "Shop and commerce",
+      "Business and clients",
+      "Travel and hospitality",
+      "Property and home",
+      "Logistics and transport",
+      "Food and drink",
+      "Beauty and fashion",
+      "Jobs and careers",
+      "Pets and animals",
+      "Faith and culture",
+      "News and information",
+      "Sport and outdoors",
+      "Trackers and dashboards",
+      "Planning and productivity",
+      "Games and toys",
+      "Learning and study",
+      "Creative and media",
+      "Community and events",
+      "AI and chatbots",
+      "Site and portfolio",
+      "Utilities and converters",
+      "Generic or brand-style name",
+      "Cannot tell"
+    ],
+    "cannot_tell": "Cannot tell",
+    "sampling": {
+      "seed": 20260913,
+      "method": "proportional stratified sampling on genre with a floor of 0 per cell, largest remainder allocation, then a fixed-seed shuffle",
+      "stratify_column": "genre",
+      "builder_stratum_rows": 42264,
+      "auto_named_excluded": 1227,
+      "allocation": {
+        "Unclassified": 29,
+        "Site and portfolio": 3,
+        "AI and chatbots": 3,
+        "Creative and media": 3,
+        "Trackers and dashboards": 2,
+        "Learning and study": 1,
+        "Shop and commerce": 1,
+        "Health and fitness": 1,
+        "Business and clients": 1,
+        "Money and admin": 1,
+        "Planning and productivity": 1,
+        "Community and events": 1,
+        "Generic or brand-style name": 1,
+        "Games and toys": 1,
+        "Property and home": 1,
+        "Jobs and careers": 0,
+        "Travel and hospitality": 0,
+        "Utilities and converters": 0,
+        "Logistics and transport": 0,
+        "Beauty and fashion": 0,
+        "Food and drink": 0,
+        "News and information": 0,
+        "Faith and culture": 0,
+        "Sport and outdoors": 0,
+        "Pets and animals": 0
+      },
+      "populations": [
+        {
+          "id": "all",
+          "label": "builder-tool names a person named",
+          "N": 41032,
+          "assumed_p": 0.5,
+          "target_margin": null,
+          "target_n": 50
+        }
+      ]
+    },
+    "sample_size": 50
+  },
+  "audience": {
+    "options": [
+      "Household sector: for the maker, their family, friends or a community, unpaid",
+      "Producer sector: for a business, clients or paying customers",
+      "Cannot tell from the name"
+    ],
+    "cannot_tell": "Cannot tell from the name",
+    "sampling": {
+      "seed": 20260913,
+      "method": "proportional stratified sampling on genre with a floor of 0 per cell, largest remainder allocation, then a fixed-seed shuffle",
+      "stratify_column": "genre",
+      "builder_stratum_rows": 42264,
+      "auto_named_excluded": 1227,
+      "allocation": {
+        "Unclassified": 29,
+        "Site and portfolio": 3,
+        "AI and chatbots": 3,
+        "Creative and media": 3,
+        "Trackers and dashboards": 2,
+        "Learning and study": 1,
+        "Shop and commerce": 1,
+        "Health and fitness": 1,
+        "Business and clients": 1,
+        "Money and admin": 1,
+        "Planning and productivity": 1,
+        "Community and events": 1,
+        "Generic or brand-style name": 1,
+        "Games and toys": 1,
+        "Property and home": 1,
+        "Jobs and careers": 0,
+        "Travel and hospitality": 0,
+        "Utilities and converters": 0,
+        "Logistics and transport": 0,
+        "Beauty and fashion": 0,
+        "Food and drink": 0,
+        "News and information": 0,
+        "Faith and culture": 0,
+        "Sport and outdoors": 0,
+        "Pets and animals": 0
+      },
+      "populations": [
+        {
+          "id": "all",
+          "label": "builder-tool names a person named",
+          "N": 41032,
+          "assumed_p": 0.5,
+          "target_margin": null,
+          "target_n": 50
+        }
+      ]
+    },
+    "sample_size": 50
+  },
+  "maker": {
+    "options": [
+      "Looks made by a professional developer",
+      "Looks made by someone technical but not a professional developer",
+      "Looks made by a non-programmer",
+      "Cannot tell from the evidence"
+    ],
+    "cannot_tell": "Cannot tell from the evidence",
+    "sampling": {
+      "seed": 20260915,
+      "method": "proportional stratified sampling on owner_has_bio with a floor of 0 per cell, largest remainder allocation, then a fixed-seed shuffle",
+      "stratify_column": "owner_has_bio",
+      "builder_stratum_rows": 42264,
+      "auto_named_excluded": 1227,
+      "allocation": {
+        "0.0": 38,
+        "1.0": 10,
+        "(blank)": 2
+      },
+      "populations": [
+        {
+          "id": "all",
+          "label": "builder-tool names a person named",
+          "N": 41032,
+          "assumed_p": 0.5,
+          "target_margin": null,
+          "target_n": 50
+        }
+      ]
+    },
+    "sample_size": 50
+  },
+  "namestyle": {
+    "options": [
+      "Generic (names the thing itself: 'tracker', 'shop')",
+      "Descriptive (says what it does: 'habit-tracker')",
+      "Suggestive (hints at the purpose: 'golden-hour-hairdresser')",
+      "Arbitrary (a real word unrelated to the purpose: 'aurora')",
+      "Fanciful (an invented word: 'vibescudo')",
+      "Cannot tell"
+    ],
+    "cannot_tell": "Cannot tell",
+    "sampling": {
+      "seed": 20260916,
+      "method": "proportional stratified sampling on genre with a floor of 0 per cell, largest remainder allocation, then a fixed-seed shuffle",
+      "stratify_column": "genre",
+      "builder_stratum_rows": 42264,
+      "auto_named_excluded": 1227,
+      "allocation": {
+        "Unclassified": 29,
+        "Site and portfolio": 3,
+        "AI and chatbots": 3,
+        "Creative and media": 3,
+        "Trackers and dashboards": 2,
+        "Learning and study": 1,
+        "Shop and commerce": 1,
+        "Health and fitness": 1,
+        "Business and clients": 1,
+        "Money and admin": 1,
+        "Planning and productivity": 1,
+        "Community and events": 1,
+        "Generic or brand-style name": 1,
+        "Games and toys": 1,
+        "Property and home": 1,
+        "Jobs and careers": 0,
+        "Travel and hospitality": 0,
+        "Utilities and converters": 0,
+        "Logistics and transport": 0,
+        "Beauty and fashion": 0,
+        "Food and drink": 0,
+        "News and information": 0,
+        "Faith and culture": 0,
+        "Sport and outdoors": 0,
+        "Pets and animals": 0
+      },
+      "populations": [
+        {
+          "id": "all",
+          "label": "builder-tool names a person named",
+          "N": 41032,
+          "assumed_p": 0.5,
+          "target_margin": null,
+          "target_n": 50
+        }
+      ]
+    },
+    "sample_size": 50
+  }
+}

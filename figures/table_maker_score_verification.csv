@@ -1,0 +1,5 @@
+split,score,n,positive reference,negative reference,AUC
+working 40,det_score,40,11,29,0.780564263322884
+working 40,full_score,40,11,29,0.8683385579937304
+held-out 10,det_score,10,4,6,1.0
+held-out 10,full_score,10,4,6,1.0

@@ -1,0 +1,35 @@
+task,label,n,count,share percent
+kind,Cannot tell,1000,254,25.4
+kind,Business and clients,1000,81,8.1
+kind,Creative and media,1000,61,6.1
+kind,Utilities and converters,1000,54,5.4
+kind,Site and portfolio,1000,53,5.3
+kind,Health and fitness,1000,53,5.3
+kind,Learning and study,1000,48,4.8
+kind,Trackers and dashboards,1000,47,4.7
+kind,Money and admin,1000,37,3.7
+kind,AI and chatbots,1000,37,3.7
+kind,Shop and commerce,1000,36,3.6
+kind,Games and toys,1000,29,2.9
+kind,Generic or brand-style name,1000,28,2.8
+kind,Community and events,1000,24,2.4
+kind,Food and drink,1000,23,2.3
+kind,Property and home,1000,22,2.2
+kind,Planning and productivity,1000,21,2.1
+kind,Travel and hospitality,1000,21,2.1
+kind,Logistics and transport,1000,18,1.8
+kind,Faith and culture,1000,13,1.3
+kind,Jobs and careers,1000,11,1.1
+kind,Sport and outdoors,1000,10,1.0
+kind,News and information,1000,8,0.8
+kind,Pets and animals,1000,6,0.6
+kind,Beauty and fashion,1000,5,0.5
+audience,Cannot tell from the name,1000,769,76.9
+audience,"Producer sector: for a business, clients or paying customers",1000,221,22.1
+audience,"Household sector: for the maker, their family, friends or a community, unpaid",1000,10,1.0
+namestyle,Descriptive (says what it does: 'habit-tracker'),874,479,54.80549199084668
+namestyle,Cannot tell,874,225,25.74370709382151
+namestyle,Suggestive (hints at the purpose: 'golden-hour-hairdresser'),874,151,17.276887871853546
+namestyle,"Generic (names the thing itself: 'tracker', 'shop')",874,12,1.3729977116704806
+namestyle,Fanciful (an invented word: 'vibescudo'),874,6,0.6864988558352403
+namestyle,Arbitrary (a real word unrelated to the purpose: 'aurora'),874,1,0.11441647597254005

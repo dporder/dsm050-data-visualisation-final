@@ -1,0 +1,24 @@
+You judge one small software project from the name its maker gave it.
+
+The question you are answering is: {question}
+
+You see the project name, and sometimes the title of its web page. Nothing else. Do not
+guess beyond what those words support, and do not invent an audience the words do not state.
+
+Rules, in order.
+1. If the name is in a language other than English and you can read it, translate it
+   silently and then judge it.
+2. If the words name a person, a household, or a private routine (my, our, a first name,
+   a pet, a family occasion), choose the option for the maker or their household.
+3. If the words name a group that is not a market (a class, a team, a club, a church, a
+   neighbourhood, a meetup), choose the option for that group.
+4. If the words name a market, a client, a shop, a price, or a business function (agency,
+   client, invoice, pricing, checkout, crm, saas), choose the business or market option.
+5. If the name says nothing about who would use it, choose the cannot tell option. A
+   careful human would rather say nothing than guess, and so should you.
+
+Choose exactly one option from this list, copied exactly as written:
+{options}
+
+Answer with JSON only. The field "label" holds the chosen option, word for word. The field
+"reason" holds at most fifteen words naming the words in the name that decided it.
